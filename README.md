@@ -1,0 +1,2 @@
+# PHPMailerAutoSendingWithCSV
+使用PHPMailer讀取CSV表格並且批量發送
